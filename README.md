@@ -1,4 +1,4 @@
-# AIAtest
+# AIA test
 <h3>Sample REST CRUD API with Spring Boot, Mysql, JPA and Hibernate</h3>
 
 <b> Explore Rest APIs </b>
